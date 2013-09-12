@@ -1,0 +1,8 @@
+lat	lon	title	description	icon	iconSize	iconOffset
+41.921029	12.504338	Via Tagliamento 55	description	Ol_icon_red_example.png	16,16	-8,-8
+41.864428	12.470015	via Enrico Fermi 15	description	Ol_icon_red_example.png	16,16	-8,-8
+41.909881	12.527825	Largo G.Mazzini 5	description	Ol_icon_red_example.png	16,16	-8,-8
+41.90311	12.49576	Ospedale Pediatrico Bambino Gesù	description	Ol_icon_red_example.png	16,16	-8,-8
+41.889223	12.477569	P.zza Castellanani 23	description	Ol_icon_red_example.png	16,16	-8,-8
+41.905378	12.504095	Via S.M.della Battaglia 16	description	Ol_icon_red_example.png	16,16	-8,-8
+
